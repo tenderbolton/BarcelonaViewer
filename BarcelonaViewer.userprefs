@@ -1,0 +1,47 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OVR/Moonlight/Editor/OVRMoonlightLoader.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Pixel.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DTFrame.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UDP_DTFrameReceiver.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/config.xml" Line="634" Column="9" />
+      <File FileName="Assets/OVR/Moonlight/Editor/OVRMoonlightLoader.cs" Line="88" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Resources" expanded="True" />
+            <Node name="Scripts" expanded="True" />
+          </Node>
+          <Node name="Assembly-CSharp-Editor" expanded="True">
+            <Node name="OVR" expanded="True">
+              <Node name="Moonlight" expanded="True">
+                <Node name="Editor" expanded="True">
+                  <Node name="OVRMoonlightLoader.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>dataBuffer</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/cclark/Documents/Devel/unity/Shaman/BarcelonaViewer/Assets/Scripts/UDP_DTFrameReceiver.cs" line="153" />
+      <Breakpoint file="/Users/cclark/Documents/Devel/unity/Shaman/BarcelonaViewer/Assets/Scripts/UDP_DTFrameReceiver.cs" line="102" />
+      <Breakpoint file="/Users/cclark/Documents/Devel/unity/Shaman/BarcelonaViewer/Assets/Scripts/UDP_DTFrameReceiver.cs" line="183" />
+      <Breakpoint file="/Users/cclark/Documents/Devel/unity/Shaman/BarcelonaViewer/Assets/Scripts/UDP_DTFrameReceiver.cs" line="189" />
+      <Breakpoint file="/Users/cclark/Documents/Devel/unity/Shaman/BarcelonaViewer/Assets/Scripts/UDP_DTFrameReceiver.cs" line="150" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
